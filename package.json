@@ -1,6 +1,6 @@
 {
   "name": "backside-ruletree-security",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Security rules for backside that uses a tree of rules and a DSL to describe the rules",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   "dependencies": {
     "esprima": "~1.2.2",
     "async": "~0.9.0",
-    "backside-utils": "0.0.0"
+    "backside-utils": "0.0.*"
   }
 }
